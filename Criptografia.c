@@ -1,4 +1,4 @@
-// Gabriel Lopes Silva gabriel18.lopes@gmail.com trabalho de Decodificacao lab 2
+// Gabriel Lopes Silva gabriel18.lopes@gmail.com
 
 #include<stdio.h>
 #include<stdlib.h>
